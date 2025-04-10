@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PJ5Mae.baytuki.baytuki",
+         "paths": ["*","/"]
+
+      }
+    ]
+  }
+}
