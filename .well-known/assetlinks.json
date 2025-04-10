@@ -1,0 +1,16 @@
+
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ae.baytuki.baytuki",
+        "sha256_cert_fingerprints": [
+          "60:EF:21:7B:41:99:38:5D:4C:95:DF:E1:BB:2B:E1:BE:22:01:85:FD:27:C5:BD:85:87:E8:66:6B:F1:13:52:D2"
+        ]
+      }
+    }
+  ]
+  
